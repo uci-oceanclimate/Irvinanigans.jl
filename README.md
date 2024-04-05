@@ -1,6 +1,6 @@
 # Irvinanigans.jl
 
-A (probably not complete) set of instructions:
+A (probably incomplete) set of instructions:
 
 - Press the "Fork" button at the top of this Github page to create your own fork of this repository. Separately, in a UNIX terminal, use the change directory command (`cd`) in a UNIX terminal to go into whatever root directory you would like to download this repository into. Clone your fork of the repository with
 ```bash
